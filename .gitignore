@@ -1,3 +1,4 @@
 *.iso
 *.o
+*.out
 vdisk
